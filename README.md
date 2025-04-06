@@ -1,4 +1,4 @@
-# SillPilot
+# SkillPilot
 
 Career guidance can be described as a process through which students become familiar with various career options, job opportunities and are prepared for those opportunities. Career counselling is the approach that will allow the student to understand his options, find his best skills and get acquainted with the world of work in order to make choices about employment, education and life.
 
